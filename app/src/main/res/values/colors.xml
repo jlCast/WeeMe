@@ -2,31 +2,32 @@
 <resources>
     <!-- Light colors. -->
     <!-- Primary/Primary Variant. -->
-    <color name="color_primary">#5aa469</color>
-    <color name="color_primary_variant">#cee4d2</color>
+    <color name="red_700">#d32f2f</color>
+    <color name="red_700_light">#ff6659</color>
     <!-- Secondary/Secondary Variant. -->
-    <color name="color_secondary">#d35d6e</color>
-    <color name="color_secondary_variant">#f2ced4</color>
+    <color name="light_green_400">#9ccc65</color>
+    <color name="light_green_400_light">#cfff95</color>
     <!-- BackGround/Surface/Error. -->
-    <color name="color_background">#faf1e6</color>
+    <color name="amber_100">#ffecb3</color>
     <color name="color_surface">#faf1e6</color>
-    <color name="color_error">#d32f2f</color>
+    <color name="color_error">@color/red</color>
     <!-- OnPrimary/OnSecondary/OnBackGround/OnSurface/OnError. -->
-    <color name="color_on_primary">@color/black</color>
+    <color name="color_on_primary">@color/white</color>
     <color name="color_on_secondary">@color/black</color>
     <color name="color_on_background">@color/black</color>
     <color name="color_on_surface">@color/black</color>
     <color name="color_on_error">@color/white</color>
     <!-- Dark colors. -->
     <!-- Primary/Primary Variant. -->
-    <color name="color_primary_dark">#5aa469</color>
-    <color name="color_primary_variant_dark">#cee4d2</color>
+    <color name="red_700_dark">#9a0007</color>
+    <color name="red_700_dark_variant">#d24330</color>
     <color name="color_on_primary_dark">@color/black</color>
     <!-- Secondary/Secondary Variant. -->
-    <color name="color_secondary_dark">#d35d6e</color>
-    <color name="color_secondary_variant_dark">#f2ced4</color>
+    <color name="light_green_400_dark">#6b9b37</color>
+    <color name="light_green_400_dark_variant">#9ccc65</color>
     <color name="color_on_secondary_dark">@color/black</color>
     <!-- General colors. -->
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="red">#d32f2f</color>
 </resources>
