@@ -1,0 +1,11 @@
+<resources>
+    <!--MainActivity-->
+    <string name="MainActivity_welcome">Welcome!</string>
+    <string name="MainActivity_email">Email</string>
+    <string name="MainActivity_password">Password</string>
+    <string name="MainActivity_forgotPassword">Forgot password?</string>
+    <string name="MainActivity_login">Log in</string>
+    <string name="MainActivity_register">or Register</string>
+    <!--Other activities-->
+
+</resources>

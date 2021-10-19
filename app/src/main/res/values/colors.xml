@@ -8,8 +8,8 @@
     <color name="light_green_400">#9ccc65</color>
     <color name="light_green_400_light">#cfff95</color>
     <!-- BackGround/Surface/Error. -->
-    <color name="amber_100">#ffecb3</color>
-    <color name="color_surface">#faf1e6</color>
+    <color name="color_background">@color/white</color>
+    <color name="color_surface">@color/white</color>
     <color name="color_error">@color/red</color>
     <!-- OnPrimary/OnSecondary/OnBackGround/OnSurface/OnError. -->
     <color name="color_on_primary">@color/white</color>
@@ -30,4 +30,7 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="red">#d32f2f</color>
+
+    <!-- Default BOx Stroke Color. -->
+    <color name="mtrl_textinput_default_box_stroke_color">@color/red_700</color>
 </resources>

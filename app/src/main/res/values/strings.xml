@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">WeeMe</string>
+    <string name="app_name" translatable="false">WeeMe</string>
+    <!--MainActivity-->
+    <string name="MainActivity_welcome">¡Bienvenido!</string>
+    <string name="MainActivity_email">Correo electrónico</string>
+    <string name="MainActivity_password">Contraseña</string>
+    <string name="MainActivity_forgotPassword">¿Olvidó su contraseña?</string>
+    <string name="MainActivity_login">Acceder</string>
+    <string name="MainActivity_register">o Registrarse</string>
+    <!--Other activities-->
+
 </resources>
