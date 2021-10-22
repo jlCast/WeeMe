@@ -5,8 +5,9 @@
       <map>
         <entry key="..\:/FORMACION/2020_CICLO_DAM/PROYECTO/WeeMe/app/src/main/res/drawable/appicon_background.xml" value="0.22135416666666666" />
         <entry key="..\:/FORMACION/2020_CICLO_DAM/PROYECTO/WeeMe/app/src/main/res/drawable/splash_screen.xml" value="0.2" />
-        <entry key="..\:/FORMACION/2020_CICLO_DAM/PROYECTO/WeeMe/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/FORMACION/2020_CICLO_DAM/PROYECTO/WeeMe/app/src/main/res/layout/activity_main.xml" value="0.5" />
         <entry key="..\:/FORMACION/2020_CICLO_DAM/PROYECTO/WeeMe/app/src/main/res/layout/activity_main2.xml" value="0.36594202898550726" />
+        <entry key="..\:/FORMACION/2020_CICLO_DAM/PROYECTO/WeeMe/app/src/main/res/layout/activity_registro.xml" value="0.34646739130434784" />
       </map>
     </option>
   </component>
